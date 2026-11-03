@@ -12,6 +12,7 @@ Origin: the Taptiles / Allin Studio ERP build in `wulinhan/taptiles-site` (`erp/
 | 2 | [research/02-market-research.md](docs/research/02-market-research.md) | ~30 competitors with pricing, assistant support, and 2026 platform constraints |
 | 3 | [strategy/03-gap-and-opportunity.md](docs/strategy/03-gap-and-opportunity.md) | Where the gap is, why now, threats, options, kill criteria |
 | 4 | [strategy/04-positioning.md](docs/strategy/04-positioning.md) | Positioning, messaging pillars, objections, pricing posture |
+| 4b | [strategy/05-creative-and-vertical.md](docs/strategy/05-creative-and-vertical.md) | Should we add static ad creative and niche to one lead-gen vertical? (Recommends renovation / interior design in SG, Sofnade as dogfood) |
 | 5 | [prd/PRD-00-product-overview.md](docs/prd/PRD-00-product-overview.md) | Vision, personas, scope, phasing, pricing, success metrics |
 | 6 | [prd/PRD-01-connection-vault-and-gateway.md](docs/prd/PRD-01-connection-vault-and-gateway.md) | Connections, multi-assistant MCP gateway, Google Ads policy design |
 | 7 | [prd/PRD-02-truth-layer.md](docs/prd/PRD-02-truth-layer.md) | Metric catalogue, guardrails, provenance, tool surface |
